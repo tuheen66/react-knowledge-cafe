@@ -4,7 +4,7 @@
     "cover": "https://i.ibb.co/SrBy412/willian-matiola-Ouf-Ros-HUyn-U-unsplash.jpg",
     "title": "The Adventure of a Lifetime",
     "author": "Alice Smith",
-    "author-img": "https://i.ibb.co/SVNFmWc/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
+    "author_img": "https://i.ibb.co/SVNFmWc/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
     "posted_date": "2023-09-15",
     "reading_time": 20,
     "hashtags": ["adventure", "travel", "exploration"]
@@ -13,8 +13,8 @@
     "id": 2,
     "cover": "https://i.ibb.co/Kw53py1/neom-yet-QBOG-ZWg-unsplash.jpg",
     "title": "Gourmet Delights",
-    "author": "John Johnson",
-    "author-img": "https://i.ibb.co/474dnn2/john-torcasio-L1-Ts-V0-Az70-unsplash.jpg",
+    "author": "Emile Johnson",
+    "author_img": "https://i.ibb.co/474dnn2/john-torcasio-L1-Ts-V0-Az70-unsplash.jpg",
     "posted_date": "2023-09-14",
     "reading_time": 30,
     "hashtags": ["cooking", "recipes", "foodie"]
@@ -25,7 +25,7 @@
     "cover": "https://i.ibb.co/10hC8Rs/neom-ur-Bne08-l-TQ-unsplash.jpg",
     "title": "Tech Trends 2023",
     "author": "David Smith",
-    "author-img": "https://i.ibb.co/sq1Lvft/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+    "author_img": "https://i.ibb.co/sq1Lvft/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
     "posted_date": "2023-09-13",
     "reading_time": 25,
     "hashtags": ["technology", "innovation", "trends"]
@@ -35,7 +35,7 @@
     "cover": "https://i.ibb.co/Pg0spVx/neom-n7-Sdozgzvy-A-unsplash.jpg",
     "title": "Fitness Revolution",
     "author": "Sarah Johnson",
-    "author-img": "https://i.ibb.co/t2wQcyN/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+    "author_img": "https://i.ibb.co/t2wQcyN/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
     "posted_date": "2023-09-08",
     "reading_time": 35,
     "hashtags": ["fitness", "health", "exercise"]
@@ -45,7 +45,7 @@
     "cover": "https://i.ibb.co/bKDNtJV/lucas-hoang-2s-GDm-PQTqm-A-unsplash.jpg",
     "title": "Artistry Unleashed",
     "author": "Emily Davis",
-    "author-img": "https://i.ibb.co/DK4VCgR/szocs-viola-h-WGxr9xx-FWE-unsplash.jpg",
+    "author_img": "https://i.ibb.co/DK4VCgR/szocs-viola-h-WGxr9xx-FWE-unsplash.jpg",
     "posted_date": "2023-09-07",
     "reading_time": 40,
     "hashtags": ["art", "painting", "creativity"]
